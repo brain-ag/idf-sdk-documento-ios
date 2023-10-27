@@ -1,7 +1,6 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)
+// swift-compiler-version: Apple Swift version 5.5.1 (swiftlang-1300.0.31.4 clang-1300.0.29.6)
 // swift-module-flags: -target arm64-apple-ios11.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name brscan_sdk_documento_ios
-// swift-module-flags-ignorable: -enable-bare-slash-regex
 import AVFoundation
 import CommonCrypto
 import CoreLocation
@@ -15,7 +14,6 @@ import SystemConfiguration
 import TensorFlowLiteTaskVision
 import UIKit
 import _Concurrency
-import _StringProcessing
 @_exported import brscan_sdk_documento_ios
 @_inheritsConvenienceInitializers @objc public class ConfiguracaoTextoDocumento : ObjectiveC.NSObject, Swift.Codable {
   public var brscan_documento_erro_digital_document_tamanho_excedido: Swift.String
@@ -128,18 +126,18 @@ public struct Documento : Swift.Codable {
   @objc deinit
 }
 extension UIKit.UIView {
-  @_Concurrency.MainActor(unsafe) public var viewWidth: CoreFoundation.CGFloat {
+  @_Concurrency.MainActor(unsafe) public var viewWidth: CoreGraphics.CGFloat {
     get
   }
-  @_Concurrency.MainActor(unsafe) public var viewHeight: CoreFoundation.CGFloat {
+  @_Concurrency.MainActor(unsafe) public var viewHeight: CoreGraphics.CGFloat {
     get
   }
 }
 public struct BoundingBox : Swift.Codable {
-  public var x: CoreFoundation.CGFloat
-  public var y: CoreFoundation.CGFloat
-  public var width: CoreFoundation.CGFloat
-  public var height: CoreFoundation.CGFloat
+  public var x: CoreGraphics.CGFloat
+  public var y: CoreGraphics.CGFloat
+  public var width: CoreGraphics.CGFloat
+  public var height: CoreGraphics.CGFloat
   public func encode(to encoder: Swift.Encoder) throws
   public init(from decoder: Swift.Decoder) throws
 }
@@ -195,7 +193,7 @@ extension UIKit.UIColor {
 @objc @_hasMissingDesignatedInitializers @_Concurrency.MainActor(unsafe) public class CapturarDocumentoViewController : UIKit.UIViewController {
   @objc @_Concurrency.MainActor(unsafe) public var delegate: brscan_sdk_documento_ios.CapturarDocumentoViewControllerDelegate?
   @objc @_Concurrency.MainActor(unsafe) required public init(chave: Swift.String, cropDocumento: Swift.Bool, validaDocumento: Swift.Bool, wizard: Swift.Bool = false, aceitaAB: Swift.Bool, tiposDocumentosAceitos: [Swift.String] = [], segurancaExtraSslPinning: Swift.Bool = false, segurancaExtraRootCheck: Swift.Bool = false, timeoutCapturaManual: Swift.Double = 0.0, telaSelecaoDocumento: Swift.Bool = false, resolucao: Swift.String = "low", ladoDocumentoAceito: Swift.String = "", tipoRetorno: Swift.String = "base64", telaPreview: Swift.Bool = true, scoreMinimo: Swift.Int = 70, customizacaoTexto: brscan_sdk_documento_ios.ConfiguracaoTextoDocumento = ConfiguracaoTextoDocumento(), retornarErros: Swift.Bool = false, verificarLuminosidade: Swift.Bool = true, segurancaExtraEmulatorCheck: Swift.Bool = false, tokenTentativa: Swift.Int = 0, orientacaoCaptura: Swift.String = "portrait", capturaManual: Swift.Bool = false, tentativasDeCaptura: Swift.Int = 0, telaConfirmacaoDeSaida: Swift.Bool = true, spoof: Swift.Bool = false)
-  @_Concurrency.MainActor(unsafe) @objc override dynamic public func viewDidLoad()
+  @objc @_Concurrency.MainActor(unsafe) override dynamic public func viewDidLoad()
   @objc deinit
 }
 extension brscan_sdk_documento_ios.CapturarDocumentoViewController : brscan_sdk_documento_ios.CapturaDocumentoViewControllerDelegate {
@@ -217,7 +215,7 @@ public protocol CapturaDocumentoViewControllerDelegate {
 }
 @objc @_hasMissingDesignatedInitializers @_Concurrency.MainActor(unsafe) public class CapturaDocumentoViewController : UIKit.UIViewController {
   @_Concurrency.MainActor(unsafe) @objc override dynamic public var prefersStatusBarHidden: Swift.Bool {
-    @objc get
+    @_Concurrency.MainActor(unsafe) @objc get
   }
   @_Concurrency.MainActor(unsafe) public var delegate: brscan_sdk_documento_ios.CapturaDocumentoViewControllerDelegate?
   @_Concurrency.MainActor(unsafe) public var shapeOverlay: QuartzCore.CAShapeLayer
@@ -513,11 +511,11 @@ extension Swift.String {
   }
 }
 extension UIKit.UIButton {
-  @_Concurrency.MainActor(unsafe) @objc override dynamic open func point(inside point: CoreFoundation.CGPoint, with event: UIKit.UIEvent?) -> Swift.Bool
+  @_Concurrency.MainActor(unsafe) @objc override dynamic open func point(inside point: CoreGraphics.CGPoint, with event: UIKit.UIEvent?) -> Swift.Bool
 }
 @objc @_hasMissingDesignatedInitializers @_Concurrency.MainActor(unsafe) public class PermanecerCapturaVersoViewController : UIKit.UIViewController {
   @_Concurrency.MainActor(unsafe) @objc override dynamic public var prefersStatusBarHidden: Swift.Bool {
-    @objc get
+    @_Concurrency.MainActor(unsafe) @objc get
   }
   @_Concurrency.MainActor(unsafe) @objc override dynamic public func viewDidLoad()
   @objc deinit
