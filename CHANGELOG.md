@@ -1,3 +1,10 @@
+## [3.3.0] - 26-10-2023
+- Melhoria: Alteração da API de tipificação do upload da CNH Digital.
+- Melhoria: Coleta de metadados do processo de upload da CNH Digital.
+- Melhoria: Adicinado Flag (Spoof) para validação foto de foto de um documento
+- Melhoria: Tratamento, correção e adição de novos erros
+- Melhoria: Ajustar o retorno do objeto de erro do callback(incluindo docType e image)
+
 ## [3.2.2] - 19-10-2023
 - Correção: Mudança na configuração inicial de câmera.
 
