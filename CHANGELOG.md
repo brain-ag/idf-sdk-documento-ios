@@ -1,3 +1,6 @@
+## [3.3.1] - 07-12-2023
+- Melhoria: Adicionado novo certificado sslpinning
+
 ## [3.3.0] - 26-10-2023
 - Melhoria: Alteração da API de tipificação do upload da CNH Digital.
 - Melhoria: Coleta de metadados do processo de upload da CNH Digital.

@@ -6,6 +6,6 @@ framework module brscan_sdk_documento_ios {
 }
 
 module brscan_sdk_documento_ios.Swift {
-    header "brscan_sdk_documento_ios-Swift.h"
-    requires objc
+  header "brscan_sdk_documento_ios-Swift.h"
+  requires objc
 }

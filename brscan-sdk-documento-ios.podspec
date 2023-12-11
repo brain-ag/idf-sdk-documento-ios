@@ -1,14 +1,14 @@
 Pod::Spec.new do |s|  
     s.name              = 'brscan-sdk-documento-ios'
-    s.version           = '3.3.0-xcode13-dynamic-bitcode'
+    s.version           = '3.3.1-dynamic-nobitcode'
     s.summary           = 'Framework em IOS para captura de documento.'
-    s.homepage          = 'https://github.com/brain-ag/idf-sdk-documento-ios'
+    s.homepage          = 'https://github.com/brscan/brscan-sdk-documento-ios'
 
     s.author            = { 'Celso Junio Silva Santos' => 'celsoj18@gmail.com'}
     s.license           = 'MIT'
 
     s.platform          = :ios
-    s.source            = { :git => 'https://github.com/brain-ag/idf-sdk-documento-ios.git', :tag => s.version.to_s }
+    s.source            = { :git => 'https://github.com/brscan/brscan-sdk-documento-ios.git', :tag => s.version.to_s }
 
     s.resource_bundles = {
      'brscan-sdk-documento-ios-resources' => ['resources/*/*.{png,gif,ttf,plist,tflite}'] 
