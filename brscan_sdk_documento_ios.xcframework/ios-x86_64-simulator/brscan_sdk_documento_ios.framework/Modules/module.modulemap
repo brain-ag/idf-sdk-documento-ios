@@ -1,7 +1,7 @@
 framework module brscan_sdk_documento_ios {
   umbrella header "brscan_sdk_documento_ios.h"
-
   export *
+
   module * { export * }
 }
 

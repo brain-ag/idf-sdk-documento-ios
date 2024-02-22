@@ -1,3 +1,7 @@
+## [3.3.2] - 22-02-2024
+- Melhoria: Tratamento no foco da câmera.
+- Correção(hotfix): Alteração do id 18 de erro para id 34 no processo de upload de cnh digital.
+
 ## [3.3.1] - 07-12-2023
 - Melhoria: Adicionado novo certificado sslpinning
 
