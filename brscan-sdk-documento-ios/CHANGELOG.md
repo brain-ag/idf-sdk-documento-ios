@@ -1,3 +1,6 @@
+## [4.0.2] - 01-07-2024
+- Melhoria: Inclusão da flag 'spoofValidationExceptions' para exceções de spoof.
+
 ## [4.0.1] - 25-04-2024
 - Correção(hotfix): Adicionado crop de documentos do lado AB no fluxo de captura sem validação.
 - Correção(hotfix): Ajustar descrição no processo de captura de CNHCel e CNHDigital.
