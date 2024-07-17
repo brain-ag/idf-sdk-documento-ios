@@ -1,7 +1,10 @@
+## [4.0.3] - 15-07-2024
+- Melhoria: Ajustar o retorno do objeto do callback(incluindo "statusRequest")
+
 ## [4.0.2] - 01-07-2024
 - Melhoria: Inclusão da flag 'spoofValidationExceptions' para exceções de spoof.
 
-## [4.0.1] - 25-04-2024
+## [4.0.1] - 18-03-2024
 - Correção(hotfix): Adicionado crop de documentos do lado AB no fluxo de captura sem validação.
 - Correção(hotfix): Ajustar descrição no processo de captura de CNHCel e CNHDigital.
 - Melhoria: Inclusão da flag "playCaptureSound" para disparar som ao realizar uma captura.
