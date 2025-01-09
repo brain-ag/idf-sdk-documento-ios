@@ -34,7 +34,7 @@
 		</data>
 		<key>Modules/brscan_sdk_documento_ios.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		nMC7OTf3hB2H5jhsSoOLoU+hU0g=
+		ehemfc5Zd6vOCuMel91g+5AGTWs=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -45,10 +45,6 @@
 	<dict>
 		<key>Headers/brscan_sdk_documento_ios-Swift.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			3AnqsjqGmX0rgAZvnprbaXoslJI=
-			</data>
 			<key>hash2</key>
 			<data>
 			ulhmDMVbFKfdY6yCkDrhsFgEercp7+1hhpATzs5cjO8=
@@ -56,10 +52,6 @@
 		</dict>
 		<key>Headers/brscan_sdk_documento_ios.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			KaHwvwwPzFBni4+XfKqp/7n02Xs=
-			</data>
 			<key>hash2</key>
 			<data>
 			iFV5hdoGcl8FM1RqKCkLDl2NW07fvavcZIEeJizSjwI=
@@ -67,10 +59,6 @@
 		</dict>
 		<key>Modules/brscan_sdk_documento_ios.swiftmodule/arm64-apple-ios.abi.json</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			QID6ifcLszKErph2LIgx0b/0X4Q=
-			</data>
 			<key>hash2</key>
 			<data>
 			PyYh9VV/RvJOBY8nivanyxWayH6N3r69zBaNsXmjsAU=
@@ -78,10 +66,6 @@
 		</dict>
 		<key>Modules/brscan_sdk_documento_ios.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			KS2hd2MsB+D8kY2/c7IY4XVQ5Ng=
-			</data>
 			<key>hash2</key>
 			<data>
 			C44i14itFjdmpa+bsMO9E7/ytOAmB5NZj9Too+ffwgc=
@@ -89,10 +73,6 @@
 		</dict>
 		<key>Modules/brscan_sdk_documento_ios.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			K6xf6RhcJrAdy9tCng1OeT1iEo0=
-			</data>
 			<key>hash2</key>
 			<data>
 			dzQzL3GXqG518SWWOEmZnIPbGxMDVkmYmKXedjg1ez0=
@@ -100,10 +80,6 @@
 		</dict>
 		<key>Modules/brscan_sdk_documento_ios.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			KS2hd2MsB+D8kY2/c7IY4XVQ5Ng=
-			</data>
 			<key>hash2</key>
 			<data>
 			C44i14itFjdmpa+bsMO9E7/ytOAmB5NZj9Too+ffwgc=
@@ -111,21 +87,13 @@
 		</dict>
 		<key>Modules/brscan_sdk_documento_ios.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			nMC7OTf3hB2H5jhsSoOLoU+hU0g=
-			</data>
 			<key>hash2</key>
 			<data>
-			S8SE7bfpxvNHgDuGoZ+cMOAJSxxrHGdhSZ+FcSX3Brs=
+			XFEJg/I0cXWrYuKeKXvfBjXqwRzLZEm1crQkFrv0toY=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			D3lLic5+y32/7Fg8AqZToZR9yDw=
-			</data>
 			<key>hash2</key>
 			<data>
 			7UrpI5lDCo/7HXJHGYEKmEroKU1RVoCcfxWuGXgV8I0=

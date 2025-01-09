@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|  
     s.name              = 'brscan-sdk-documento-ios'
-    s.version           = '4.0.5-static-nobitcode'
+    s.version           = '4.0.5-dynamic-nobitcode'
     s.summary           = 'Framework em IOS para captura de documento.'
     s.homepage          = 'https://github.com/brain-ag/idf-sdk-documento-ios'
 
