@@ -1,5 +1,8 @@
+## [4.0.5] - 06-01-2025
+- Melhoria: Adição do iXGuard.
+
 ## [4.0.4] - 21-10-2024
-- Correção: Adição de novo certificado.
+- Correção: adição de novo certificado.
 
 ## [4.0.3] - 15-07-2024
 - Melhoria: Ajustar o retorno do objeto do callback(incluindo "statusRequest")
