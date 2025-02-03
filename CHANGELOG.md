@@ -1,3 +1,6 @@
+## [4.0.6] - 31-01-2025
+- Melhoria: Adição de possibilidade de customização no Título da Tela de Preview.
+
 ## [4.0.5] - 06-01-2025
 - Melhoria: Adição do iXGuard.
 

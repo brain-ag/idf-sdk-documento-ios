@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/brscan_sdk_documento_ios-Swift.h</key>
 		<data>
-		PSYRdxBarH0Slq2CMMX0ZAmC5/Q=
+		ARTjsn4YjfEf36n6SwgFpzlJfvs=
 		</data>
 		<key>Headers/brscan_sdk_documento_ios.h</key>
 		<data>
@@ -14,15 +14,15 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		8nGBrrAJHMoZV3XcVlzXTnlDfh8=
+		EEwvr+irUzN4n0C5BQbvBKHrYUE=
 		</data>
 		<key>Modules/brscan_sdk_documento_ios.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		QID6ifcLszKErph2LIgx0b/0X4Q=
+		aUUqE8qjhzbBtuvw5TXu1mWH5U0=
 		</data>
 		<key>Modules/brscan_sdk_documento_ios.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		uA28bfYAP4MWQC0b1xfNlyt7ed4=
+		lnh+dgnWgrBO+KLVEUJomA4Rkx0=
 		</data>
 		<key>Modules/brscan_sdk_documento_ios.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -30,19 +30,19 @@
 		</data>
 		<key>Modules/brscan_sdk_documento_ios.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		uA28bfYAP4MWQC0b1xfNlyt7ed4=
+		lnh+dgnWgrBO+KLVEUJomA4Rkx0=
 		</data>
 		<key>Modules/brscan_sdk_documento_ios.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		neeJWpc4I42j+0tL/+Ry288O6Vo=
+		N1qMpYn9pLySmcJmH8zl9rZLzrI=
 		</data>
 		<key>Modules/brscan_sdk_documento_ios.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		QID6ifcLszKErph2LIgx0b/0X4Q=
+		aUUqE8qjhzbBtuvw5TXu1mWH5U0=
 		</data>
 		<key>Modules/brscan_sdk_documento_ios.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		RTes+pJXbt3jfPG9y2bnZRyZKhU=
+		CwO+Ht6MsDqki6I8JqQgmpk3fnw=
 		</data>
 		<key>Modules/brscan_sdk_documento_ios.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -50,11 +50,11 @@
 		</data>
 		<key>Modules/brscan_sdk_documento_ios.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		RTes+pJXbt3jfPG9y2bnZRyZKhU=
+		CwO+Ht6MsDqki6I8JqQgmpk3fnw=
 		</data>
 		<key>Modules/brscan_sdk_documento_ios.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		7acCR2MHuYk6OZP1xEG9ff3DB5E=
+		/OaNCEdhsKdUO5wVfgk+ktCXq8Y=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -67,7 +67,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			S5fmk01ULlJM4xIQjgDWvk1URTRxh/tJfNZTHiM+2bI=
+			GlIfh9goKnFifW2/1kqWXRO77zCAV0+jWHgRYZAtqc8=
 			</data>
 		</dict>
 		<key>Headers/brscan_sdk_documento_ios.h</key>
@@ -81,14 +81,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			PyYh9VV/RvJOBY8nivanyxWayH6N3r69zBaNsXmjsAU=
+			T0Z5EVoAxm3l3cpj4uRuUMxA4MV48QmSKGtvqkSz4Jc=
 			</data>
 		</dict>
 		<key>Modules/brscan_sdk_documento_ios.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			7Dqi2fPltJQb/bKyA0KxpVRFgfcEqXAGf3KSf/sVWtE=
+			ASXvo/DkmJV5mqa+HciJff4hqzyEdxA543/1X82ej6w=
 			</data>
 		</dict>
 		<key>Modules/brscan_sdk_documento_ios.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -102,28 +102,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			7Dqi2fPltJQb/bKyA0KxpVRFgfcEqXAGf3KSf/sVWtE=
+			ASXvo/DkmJV5mqa+HciJff4hqzyEdxA543/1X82ej6w=
 			</data>
 		</dict>
 		<key>Modules/brscan_sdk_documento_ios.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			VCj+mP4bRANOKRKuyVa3Ce3nmFJAuYeq5fxvM/c54kg=
+			Ppqc2btMbFNzetOJx/HJ6sNmoLdk81rog1xFtn18beY=
 			</data>
 		</dict>
 		<key>Modules/brscan_sdk_documento_ios.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			PyYh9VV/RvJOBY8nivanyxWayH6N3r69zBaNsXmjsAU=
+			T0Z5EVoAxm3l3cpj4uRuUMxA4MV48QmSKGtvqkSz4Jc=
 			</data>
 		</dict>
 		<key>Modules/brscan_sdk_documento_ios.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			hku8n/VPkFSyzklTt4kqiGSD7GGRU+mfG1slbLBlwD4=
+			cnoEiN7oatnxPE2syh40zr+qWwENVGSKBsK0bFhr/04=
 			</data>
 		</dict>
 		<key>Modules/brscan_sdk_documento_ios.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -137,14 +137,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			hku8n/VPkFSyzklTt4kqiGSD7GGRU+mfG1slbLBlwD4=
+			cnoEiN7oatnxPE2syh40zr+qWwENVGSKBsK0bFhr/04=
 			</data>
 		</dict>
 		<key>Modules/brscan_sdk_documento_ios.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			f0EEzQjMaXUgXu+U1aXY0NBgIoxNYRkZqsURRlJgPYc=
+			EUDzeJK+1ZEr0smGNTEg1yW18RflDBlYFCo3VfPmoVs=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
