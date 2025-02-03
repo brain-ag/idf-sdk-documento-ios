@@ -14,15 +14,15 @@
 		</data>
 		<key>ios-arm64/brscan_sdk_documento_ios.framework/Info.plist</key>
 		<data>
-		zD5yeftOTAg8OaMKrzJpYk4YgBU=
+		j8/GB8PwmgarXxlX6AMqJp+N6zE=
 		</data>
 		<key>ios-arm64/brscan_sdk_documento_ios.framework/Modules/brscan_sdk_documento_ios.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		aUUqE8qjhzbBtuvw5TXu1mWH5U0=
+		2GbK0EZitYp47yTvt1DARsJHl20=
 		</data>
 		<key>ios-arm64/brscan_sdk_documento_ios.framework/Modules/brscan_sdk_documento_ios.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		1TnkN3YmdMBaqEOgIUBmtLjjAWs=
+		8MH3xQ9h5Cuo747AjMc7V5ZZqbk=
 		</data>
 		<key>ios-arm64/brscan_sdk_documento_ios.framework/Modules/brscan_sdk_documento_ios.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -30,19 +30,35 @@
 		</data>
 		<key>ios-arm64/brscan_sdk_documento_ios.framework/Modules/brscan_sdk_documento_ios.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		1TnkN3YmdMBaqEOgIUBmtLjjAWs=
+		8MH3xQ9h5Cuo747AjMc7V5ZZqbk=
 		</data>
 		<key>ios-arm64/brscan_sdk_documento_ios.framework/Modules/module.modulemap</key>
 		<data>
 		D3lLic5+y32/7Fg8AqZToZR9yDw=
 		</data>
+		<key>ios-arm64/brscan_sdk_documento_ios.framework/_CodeSignature/CodeDirectory</key>
+		<data>
+		kse9QW5xSuN+iN7/jQU+JxGpj5o=
+		</data>
+		<key>ios-arm64/brscan_sdk_documento_ios.framework/_CodeSignature/CodeRequirements</key>
+		<data>
+		alyFdHPI/GcoUo7eftdLs+cMn0I=
+		</data>
+		<key>ios-arm64/brscan_sdk_documento_ios.framework/_CodeSignature/CodeRequirements-1</key>
+		<data>
+		R+tW7RtSS9fTM7HLNc5Hk0Hyub0=
+		</data>
 		<key>ios-arm64/brscan_sdk_documento_ios.framework/_CodeSignature/CodeResources</key>
 		<data>
-		iP+pSR7dH4fhnrfoOYnG9vBEfkw=
+		WVAe8V9d0fbj6dMbnTNbTv7q1IU=
+		</data>
+		<key>ios-arm64/brscan_sdk_documento_ios.framework/_CodeSignature/CodeSignature</key>
+		<data>
+		8Ez+g0yf/IT/Z1hDvR2wzjmZsHY=
 		</data>
 		<key>ios-arm64/brscan_sdk_documento_ios.framework/brscan_sdk_documento_ios</key>
 		<data>
-		8+u+pF0ZHqwg/BRLHwqOsJ8RY7I=
+		E6d5Bbq5h3OhGbEUNMbsx6z9dvo=
 		</data>
 		<key>ios-arm64_x86_64-simulator/brscan_sdk_documento_ios.framework/Headers/brscan_sdk_documento_ios-Swift.h</key>
 		<data>
@@ -58,11 +74,11 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/brscan_sdk_documento_ios.framework/Modules/brscan_sdk_documento_ios.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		aUUqE8qjhzbBtuvw5TXu1mWH5U0=
+		2GbK0EZitYp47yTvt1DARsJHl20=
 		</data>
 		<key>ios-arm64_x86_64-simulator/brscan_sdk_documento_ios.framework/Modules/brscan_sdk_documento_ios.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		E/9+2OCauYxZiJh5ZxX3cHtr05w=
+		lnh+dgnWgrBO+KLVEUJomA4Rkx0=
 		</data>
 		<key>ios-arm64_x86_64-simulator/brscan_sdk_documento_ios.framework/Modules/brscan_sdk_documento_ios.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -70,15 +86,15 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/brscan_sdk_documento_ios.framework/Modules/brscan_sdk_documento_ios.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		E/9+2OCauYxZiJh5ZxX3cHtr05w=
+		lnh+dgnWgrBO+KLVEUJomA4Rkx0=
 		</data>
 		<key>ios-arm64_x86_64-simulator/brscan_sdk_documento_ios.framework/Modules/brscan_sdk_documento_ios.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		aUUqE8qjhzbBtuvw5TXu1mWH5U0=
+		2GbK0EZitYp47yTvt1DARsJHl20=
 		</data>
 		<key>ios-arm64_x86_64-simulator/brscan_sdk_documento_ios.framework/Modules/brscan_sdk_documento_ios.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		2Gm6i7qcFh7hSrNrTi+YU+jxLtE=
+		CwO+Ht6MsDqki6I8JqQgmpk3fnw=
 		</data>
 		<key>ios-arm64_x86_64-simulator/brscan_sdk_documento_ios.framework/Modules/brscan_sdk_documento_ios.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -86,19 +102,35 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/brscan_sdk_documento_ios.framework/Modules/brscan_sdk_documento_ios.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		2Gm6i7qcFh7hSrNrTi+YU+jxLtE=
+		CwO+Ht6MsDqki6I8JqQgmpk3fnw=
 		</data>
 		<key>ios-arm64_x86_64-simulator/brscan_sdk_documento_ios.framework/Modules/module.modulemap</key>
 		<data>
 		D3lLic5+y32/7Fg8AqZToZR9yDw=
 		</data>
+		<key>ios-arm64_x86_64-simulator/brscan_sdk_documento_ios.framework/_CodeSignature/CodeDirectory</key>
+		<data>
+		7PH1ssrF4Wx7xJFd11cKAhd8k9Q=
+		</data>
+		<key>ios-arm64_x86_64-simulator/brscan_sdk_documento_ios.framework/_CodeSignature/CodeRequirements</key>
+		<data>
+		OnX22wWFKRSOFN1+obRynMCeyXM=
+		</data>
+		<key>ios-arm64_x86_64-simulator/brscan_sdk_documento_ios.framework/_CodeSignature/CodeRequirements-1</key>
+		<data>
+		ogogMnEAAXGLbL8mjeOiIpZdlZ8=
+		</data>
 		<key>ios-arm64_x86_64-simulator/brscan_sdk_documento_ios.framework/_CodeSignature/CodeResources</key>
 		<data>
-		nJHrY/BYBKjI3xNQJTy7JQH1rxQ=
+		QDBmKDTNeKrwnDgc80SzHXZg4FU=
+		</data>
+		<key>ios-arm64_x86_64-simulator/brscan_sdk_documento_ios.framework/_CodeSignature/CodeSignature</key>
+		<data>
+		2jmj7l5rSw0yVb/vlWAYkK/YBwk=
 		</data>
 		<key>ios-arm64_x86_64-simulator/brscan_sdk_documento_ios.framework/brscan_sdk_documento_ios</key>
 		<data>
-		vRxep9AhyoLhyAhYKFJnAmtMfGk=
+		7v+e+kKu2WvjdYNDnrx3sdlBbgk=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -129,33 +161,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			zD5yeftOTAg8OaMKrzJpYk4YgBU=
+			j8/GB8PwmgarXxlX6AMqJp+N6zE=
 			</data>
 			<key>hash2</key>
 			<data>
-			XhuH7yBOfuB9ZevyzZqHAsCSzXC1U5rm5Fk8oVuvEdw=
+			UrgSvLA3LgsGjuo7JV9BqCf/L+jlAPxT3/P5JJ64xUE=
 			</data>
 		</dict>
 		<key>ios-arm64/brscan_sdk_documento_ios.framework/Modules/brscan_sdk_documento_ios.swiftmodule/arm64-apple-ios.abi.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			aUUqE8qjhzbBtuvw5TXu1mWH5U0=
+			2GbK0EZitYp47yTvt1DARsJHl20=
 			</data>
 			<key>hash2</key>
 			<data>
-			T0Z5EVoAxm3l3cpj4uRuUMxA4MV48QmSKGtvqkSz4Jc=
+			OxswAk0/JLext10O9LFTl6W44aB5wSXL1Cp4M54aTx0=
 			</data>
 		</dict>
 		<key>ios-arm64/brscan_sdk_documento_ios.framework/Modules/brscan_sdk_documento_ios.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			1TnkN3YmdMBaqEOgIUBmtLjjAWs=
+			8MH3xQ9h5Cuo747AjMc7V5ZZqbk=
 			</data>
 			<key>hash2</key>
 			<data>
-			mNmMS0q4ljdk8W+NdKsZlqLHs2J1hj5HE6dTAebL2fQ=
+			Cb+ggxhwnezfrmxv6NAaSOFMzQhoBjFZIhfm4Lc4kg4=
 			</data>
 		</dict>
 		<key>ios-arm64/brscan_sdk_documento_ios.framework/Modules/brscan_sdk_documento_ios.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -173,11 +205,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			1TnkN3YmdMBaqEOgIUBmtLjjAWs=
+			8MH3xQ9h5Cuo747AjMc7V5ZZqbk=
 			</data>
 			<key>hash2</key>
 			<data>
-			mNmMS0q4ljdk8W+NdKsZlqLHs2J1hj5HE6dTAebL2fQ=
+			Cb+ggxhwnezfrmxv6NAaSOFMzQhoBjFZIhfm4Lc4kg4=
 			</data>
 		</dict>
 		<key>ios-arm64/brscan_sdk_documento_ios.framework/Modules/module.modulemap</key>
@@ -191,26 +223,70 @@
 			7UrpI5lDCo/7HXJHGYEKmEroKU1RVoCcfxWuGXgV8I0=
 			</data>
 		</dict>
+		<key>ios-arm64/brscan_sdk_documento_ios.framework/_CodeSignature/CodeDirectory</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			kse9QW5xSuN+iN7/jQU+JxGpj5o=
+			</data>
+			<key>hash2</key>
+			<data>
+			9+euzvyQnoFQfvBHhUiZuCF6CT/Kv585UHyrsYIJaLk=
+			</data>
+		</dict>
+		<key>ios-arm64/brscan_sdk_documento_ios.framework/_CodeSignature/CodeRequirements</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			alyFdHPI/GcoUo7eftdLs+cMn0I=
+			</data>
+			<key>hash2</key>
+			<data>
+			yjf4lZvBR7LtxGB3LqUaLS3V+1KLmJ7xlCada2K+cA0=
+			</data>
+		</dict>
+		<key>ios-arm64/brscan_sdk_documento_ios.framework/_CodeSignature/CodeRequirements-1</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			R+tW7RtSS9fTM7HLNc5Hk0Hyub0=
+			</data>
+			<key>hash2</key>
+			<data>
+			vvsmqb/T68X51q70pSrdAdXwjBCk6vntWYxJUYNKir8=
+			</data>
+		</dict>
 		<key>ios-arm64/brscan_sdk_documento_ios.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			iP+pSR7dH4fhnrfoOYnG9vBEfkw=
+			WVAe8V9d0fbj6dMbnTNbTv7q1IU=
 			</data>
 			<key>hash2</key>
 			<data>
-			0C3FzfC4W8G4Vlh8KA3rx3qZoEg/h9GGI6Hwwmec37U=
+			qYRUwYRbVaX5weVWDIS4sRhcL6Hzh/Y1noEuqszUcr8=
+			</data>
+		</dict>
+		<key>ios-arm64/brscan_sdk_documento_ios.framework/_CodeSignature/CodeSignature</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			8Ez+g0yf/IT/Z1hDvR2wzjmZsHY=
+			</data>
+			<key>hash2</key>
+			<data>
+			jR2/pmDeglNHM2aLCqoeXXfxlmqM/AgGH32QPA95dzM=
 			</data>
 		</dict>
 		<key>ios-arm64/brscan_sdk_documento_ios.framework/brscan_sdk_documento_ios</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			8+u+pF0ZHqwg/BRLHwqOsJ8RY7I=
+			E6d5Bbq5h3OhGbEUNMbsx6z9dvo=
 			</data>
 			<key>hash2</key>
 			<data>
-			NhyBlva6eIDM2vz8a62MAAc+KVC0zba3pbw9qDEbDcI=
+			EzDNfWshmnFTvuB4+jhhj2/23gw4y2tcIwhU0ds0JFU=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/brscan_sdk_documento_ios.framework/Headers/brscan_sdk_documento_ios-Swift.h</key>
@@ -250,22 +326,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			aUUqE8qjhzbBtuvw5TXu1mWH5U0=
+			2GbK0EZitYp47yTvt1DARsJHl20=
 			</data>
 			<key>hash2</key>
 			<data>
-			T0Z5EVoAxm3l3cpj4uRuUMxA4MV48QmSKGtvqkSz4Jc=
+			OxswAk0/JLext10O9LFTl6W44aB5wSXL1Cp4M54aTx0=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/brscan_sdk_documento_ios.framework/Modules/brscan_sdk_documento_ios.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			E/9+2OCauYxZiJh5ZxX3cHtr05w=
+			lnh+dgnWgrBO+KLVEUJomA4Rkx0=
 			</data>
 			<key>hash2</key>
 			<data>
-			6tWLjB/xEZZTb9QTyLSewnS2YKim5t2tvueWivGqvaM=
+			ASXvo/DkmJV5mqa+HciJff4hqzyEdxA543/1X82ej6w=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/brscan_sdk_documento_ios.framework/Modules/brscan_sdk_documento_ios.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -283,33 +359,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			E/9+2OCauYxZiJh5ZxX3cHtr05w=
+			lnh+dgnWgrBO+KLVEUJomA4Rkx0=
 			</data>
 			<key>hash2</key>
 			<data>
-			6tWLjB/xEZZTb9QTyLSewnS2YKim5t2tvueWivGqvaM=
+			ASXvo/DkmJV5mqa+HciJff4hqzyEdxA543/1X82ej6w=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/brscan_sdk_documento_ios.framework/Modules/brscan_sdk_documento_ios.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			aUUqE8qjhzbBtuvw5TXu1mWH5U0=
+			2GbK0EZitYp47yTvt1DARsJHl20=
 			</data>
 			<key>hash2</key>
 			<data>
-			T0Z5EVoAxm3l3cpj4uRuUMxA4MV48QmSKGtvqkSz4Jc=
+			OxswAk0/JLext10O9LFTl6W44aB5wSXL1Cp4M54aTx0=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/brscan_sdk_documento_ios.framework/Modules/brscan_sdk_documento_ios.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			2Gm6i7qcFh7hSrNrTi+YU+jxLtE=
+			CwO+Ht6MsDqki6I8JqQgmpk3fnw=
 			</data>
 			<key>hash2</key>
 			<data>
-			9m4LRmy7QI+Zj6AHV0ms9jqasGKvyzorpJK5AmAkiN0=
+			cnoEiN7oatnxPE2syh40zr+qWwENVGSKBsK0bFhr/04=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/brscan_sdk_documento_ios.framework/Modules/brscan_sdk_documento_ios.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -327,11 +403,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			2Gm6i7qcFh7hSrNrTi+YU+jxLtE=
+			CwO+Ht6MsDqki6I8JqQgmpk3fnw=
 			</data>
 			<key>hash2</key>
 			<data>
-			9m4LRmy7QI+Zj6AHV0ms9jqasGKvyzorpJK5AmAkiN0=
+			cnoEiN7oatnxPE2syh40zr+qWwENVGSKBsK0bFhr/04=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/brscan_sdk_documento_ios.framework/Modules/module.modulemap</key>
@@ -345,26 +421,70 @@
 			7UrpI5lDCo/7HXJHGYEKmEroKU1RVoCcfxWuGXgV8I0=
 			</data>
 		</dict>
+		<key>ios-arm64_x86_64-simulator/brscan_sdk_documento_ios.framework/_CodeSignature/CodeDirectory</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			7PH1ssrF4Wx7xJFd11cKAhd8k9Q=
+			</data>
+			<key>hash2</key>
+			<data>
+			4mXvj+uPA4sTun82RmftFn4e93Y/1YcIbd71UsoonWo=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/brscan_sdk_documento_ios.framework/_CodeSignature/CodeRequirements</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			OnX22wWFKRSOFN1+obRynMCeyXM=
+			</data>
+			<key>hash2</key>
+			<data>
+			mHkgkE6rZQ51eIwFSqCwUk5qgL/HGqMt+NI3phdD+YY=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/brscan_sdk_documento_ios.framework/_CodeSignature/CodeRequirements-1</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ogogMnEAAXGLbL8mjeOiIpZdlZ8=
+			</data>
+			<key>hash2</key>
+			<data>
+			OpCuGKdjpfZgN39fIuZzAyBecJM2Mu/EuntDI8NaVg4=
+			</data>
+		</dict>
 		<key>ios-arm64_x86_64-simulator/brscan_sdk_documento_ios.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			nJHrY/BYBKjI3xNQJTy7JQH1rxQ=
+			QDBmKDTNeKrwnDgc80SzHXZg4FU=
 			</data>
 			<key>hash2</key>
 			<data>
-			YjHivNVNOrN1VzT2a1EhqwvktUMf8szklmFsmKXW004=
+			uOUjkZdiNwubZIxfR5l/QKSOACGNVa98AVdx+3gt4sA=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/brscan_sdk_documento_ios.framework/_CodeSignature/CodeSignature</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+			</data>
+			<key>hash2</key>
+			<data>
+			47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/brscan_sdk_documento_ios.framework/brscan_sdk_documento_ios</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			vRxep9AhyoLhyAhYKFJnAmtMfGk=
+			7v+e+kKu2WvjdYNDnrx3sdlBbgk=
 			</data>
 			<key>hash2</key>
 			<data>
-			xNBTuv6Y1i7x6Q2/98CcxJOirGqXA7cr7l8vlm4D1Ug=
+			De9E9Lz7itMeaPkjPXd+B8KzhJh6KHzr0XT4xdTv+cU=
 			</data>
 		</dict>
 	</dict>
