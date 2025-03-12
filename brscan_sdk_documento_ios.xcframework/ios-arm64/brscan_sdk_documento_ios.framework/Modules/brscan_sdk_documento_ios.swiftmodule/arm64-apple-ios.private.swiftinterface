@@ -10,7 +10,6 @@ import Foundation
 import StoreKit
 import Swift
 import SystemConfiguration
-import TensorFlowLiteTaskVision
 import UIKit
 import _Concurrency
 import _StringProcessing
