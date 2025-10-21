@@ -1,3 +1,6 @@
+## [4.1.1] - 21-10-2024
+- Correção: adição de novo certificado.
+
 ## [4.1.0] - 10-03-2025
 - Melhoria: Adição da captura de outros documentos.
 - Melhoria: Adição do upload de outros documentos digitais.

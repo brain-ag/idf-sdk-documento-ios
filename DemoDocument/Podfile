@@ -7,7 +7,7 @@ target 'Demo Document' do
 
   # Pods for Demo Document
   
-  pod 'brscan-sdk-documento-ios' , '4.1.0-dynamic-nobitcode'
+  pod 'brscan-sdk-documento-ios' , '4.1.1-dynamic-nobitcode'
 end
 
 post_install do |installer|
