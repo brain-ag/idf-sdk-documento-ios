@@ -869,6 +869,12 @@ extension UIKit.UIColor {
   public var brscan_documento_color_check_icon: UIKit.UIColor {
     get
   }
+  public var brscan_documento_exit_confirmation_button_stay_here_color: UIKit.UIColor {
+    get
+  }
+  public var brscan_documento_preview_button_replace_image_color: UIKit.UIColor {
+    get
+  }
   public var brscan_documento_background_button_primary: UIKit.UIColor {
     get
   }
