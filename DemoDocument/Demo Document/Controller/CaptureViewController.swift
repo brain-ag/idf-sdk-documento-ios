@@ -50,7 +50,8 @@ class CaptureViewController: UIViewController {
             spoof: false,
             tentativasExibicaoBotao: 3,
             playCaptureSound: true,
-            spoofValidationExceptions: []
+            spoofValidationExceptions: [],
+            botaoCapturaVisivel: true
         )
         view.backgroundColor = .white
         captura.delegate = self

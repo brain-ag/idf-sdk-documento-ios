@@ -86,6 +86,10 @@
 	<string>A foto do verso ficou boa?</string>
 	<key>brscan_documento_background_button_primary</key>
 	<string>#002DD1</string>
+	<key>brscan_documento_preview_button_replace_image_color</key>
+	<string>#002DD1</string>
+	<key>brscan_documento_exit_confirmation_button_stay_here_color</key>
+	<string>#002DD1</string>
 	<key>brscan_documento_background_captura</key>
 	<string>#b2000000</string>
 	<key>brscan_documento_background_loading</key>
@@ -115,7 +119,7 @@
 	<key>brscan_documento_captura_estado_documentos_na_horizontal</key>
 	<string>Seu documento está na horizontal, o posicione na vertical</string>
 	<key>brscan_documento_captura_estado_inicial</key>
-	<string>Enquadre o documento</string>
+	<string>Fotografe um lado de cada vez</string>
 	<key>brscan_documento_captura_estado_mova_para_a_baixo</key>
 	<string>Mova a câmera para baixo</string>
 	<key>brscan_documento_captura_estado_mova_para_a_cima</key>

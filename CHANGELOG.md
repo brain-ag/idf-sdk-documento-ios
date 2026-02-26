@@ -1,4 +1,11 @@
-## [4.1.1] - 21-10-2024
+## [4.1.3] - 26-02-2026
+- Melhoria: Inclusão da flag 'botaoCapturaVisivel' exibe/oculta botão de captura no modo desabilitado.
+- Melhoria: Unificação cnhcel2022 e cnh como apenas cnh no feedback de captura.
+
+## [4.1.2] - 16-12-2025
+- Melhoria: Adição das propriedades de customização brscan_documento_exit_confirmation_button_stay_here_color e brscan_documento_preview_button_replace_image_color.
+
+## [4.1.1] - 21-10-2025
 - Correção: adição de novo certificado.
 
 ## [4.1.0] - 10-03-2025
@@ -282,6 +289,3 @@
 ## [1.2.1] - 17-11-2021
 - Melhoria: Customização de fonte.
 - Melhoria: Customização da tela de captura. 
-
-
-
