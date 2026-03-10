@@ -1,3 +1,6 @@
+## [4.1.4] - 10-03-2026
+- Correção: Feedback instantâneo lado ab.
+ 
 ## [4.1.3] - 26-02-2026
 - Melhoria: Inclusão da flag 'botaoCapturaVisivel' exibe/oculta botão de captura no modo desabilitado.
 - Melhoria: Unificação cnhcel2022 e cnh como apenas cnh no feedback de captura.
