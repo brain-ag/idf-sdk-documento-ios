@@ -1,0 +1,16 @@
+PODS:
+  - brscan-sdk-documento-ios (4.1.5-dynamic-nobitcode)
+
+DEPENDENCIES:
+  - brscan-sdk-documento-ios (from `../`)
+
+EXTERNAL SOURCES:
+  brscan-sdk-documento-ios:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  brscan-sdk-documento-ios: 8c01907a71f86c016caaed32f3fb7ead758b1ae3
+
+PODFILE CHECKSUM: d611e702c4caa936039bb2b5c962bfde34bcf2ee
+
+COCOAPODS: 1.16.2

@@ -1,3 +1,7 @@
+## [4.1.5] - 06-05-2026
+- Melhoria: Padronização do layout da tela de preview para manter consistência com a plataforma Android.
+- Melhoria: Inclusão da flag `verificarLegibilidade` para controle de validação de qualidade do documento.
+
 ## [4.1.4] - 10-03-2026
 - Correção: Feedback instantâneo lado ab.
  

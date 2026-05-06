@@ -229,7 +229,7 @@
 	<key>brscan_documento_choose_document_type_color</key>
 	<string>#717171</string>
 	<key>brscan_documento_close_button_color</key>
-	<string>#5D5D5D</string>
+	<string>#999999</string>
 	<key>brscan_documento_color_check_icon</key>
 	<string></string>
 	<key>brscan_documento_color_texto_orientacao</key>
